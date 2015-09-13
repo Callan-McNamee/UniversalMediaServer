@@ -20,7 +20,7 @@
 		Updated English (thanks, ler0y!)
 		Updated Polish translation (thanks, Karol Szastok!)
 	External Components:
-		Updated FFmpeg for Windows
+		Updated FFmpeg  for Windows
 		Updated MediaInfo to 0.7.75
 		Updated Netty to 3.10.4
 
